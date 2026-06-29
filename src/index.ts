@@ -1,5 +1,7 @@
-const { parseEvent } = require("@laihoe/demoparser2");
+import { parseHeader } from "@laihoe/demoparser2";
 
-export function getDeaths(path: string) {
-  return parseEvent(path, "player_death", [], []);
-}
+const demoPath = "./demos/mibr-academy-vs-patins-da-ferrari-m1-mirage.dem";
+
+const header = parseHeader(demoPath);
+
+console.log(header);
