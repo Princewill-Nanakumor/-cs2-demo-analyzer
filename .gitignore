@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.env
+*.log
+.DS_Store
+
+# CS2 demo files (large, not for git)
+demos/
+*.dem
