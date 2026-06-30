@@ -1,0 +1,1343 @@
+[
+  {
+    "tick": 187338,
+    "victim": "revoltz",
+    "killer": "t9rnay",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 14.68,
+    "angleDifference": 168.28,
+    "score": 321.88
+  },
+  {
+    "tick": 5455,
+    "victim": "lkz",
+    "killer": "t9rnay",
+    "weapon": "glock",
+    "yawMovement": 41.36,
+    "angleDifference": 173.95,
+    "score": 306.55
+  },
+  {
+    "tick": 5725,
+    "victim": "Jerr1",
+    "killer": "t9rnay",
+    "weapon": "glock",
+    "yawMovement": 0.51,
+    "angleDifference": 123.06,
+    "score": 245.61
+  },
+  {
+    "tick": 118295,
+    "victim": "Jerr1",
+    "killer": "perez",
+    "weapon": "m4a1",
+    "yawMovement": 8.1,
+    "angleDifference": 105.51,
+    "score": 202.92
+  },
+  {
+    "tick": 4856,
+    "victim": "revoltz",
+    "killer": "t9rnay",
+    "weapon": "glock",
+    "yawMovement": 75.6,
+    "angleDifference": 125.05,
+    "score": 174.5
+  },
+  {
+    "tick": 100106,
+    "victim": "stormzyn",
+    "killer": "perez",
+    "weapon": "ak47",
+    "yawMovement": 58.47,
+    "angleDifference": 109.81,
+    "score": 161.16
+  },
+  {
+    "tick": 136072,
+    "victim": "t9rnay",
+    "killer": "revoltz",
+    "weapon": "deagle",
+    "yawMovement": 118.24,
+    "angleDifference": 130.19,
+    "score": 142.15
+  },
+  {
+    "tick": 160945,
+    "victim": "lkz",
+    "killer": "t9rnay",
+    "weapon": "usp_silencer",
+    "yawMovement": 80.55,
+    "angleDifference": 103.45,
+    "score": 126.36
+  },
+  {
+    "tick": 95228,
+    "victim": "perez",
+    "killer": "lkz",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 196.16,
+    "angleDifference": 152.22,
+    "score": 108.29
+  },
+  {
+    "tick": 113421,
+    "victim": "fl4sh",
+    "killer": "CutzMeretz",
+    "weapon": "famas",
+    "yawMovement": 228.31,
+    "angleDifference": 161.97,
+    "score": 95.63
+  },
+  {
+    "tick": 132500,
+    "victim": "lkz",
+    "killer": "mlhzin",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 23.73,
+    "angleDifference": 55.78,
+    "score": 87.82
+  },
+  {
+    "tick": 192284,
+    "victim": "Jerr1",
+    "killer": "perez",
+    "weapon": "m4a1",
+    "yawMovement": 44.71,
+    "angleDifference": 63.1,
+    "score": 81.5
+  },
+  {
+    "tick": 13962,
+    "victim": "revoltz",
+    "killer": "perez",
+    "weapon": "famas",
+    "yawMovement": 117.67,
+    "angleDifference": 97.46,
+    "score": 77.25
+  },
+  {
+    "tick": 56313,
+    "victim": "t9rnay",
+    "killer": "stormzyn",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 132.33,
+    "angleDifference": 104.46,
+    "score": 76.59
+  },
+  {
+    "tick": 131040,
+    "victim": "stormzyn",
+    "killer": "t9rnay",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 42.9,
+    "angleDifference": 59.03,
+    "score": 75.17
+  },
+  {
+    "tick": 127581,
+    "victim": "fl4sh",
+    "killer": "mlhzin",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 73.11,
+    "angleDifference": 70.1,
+    "score": 67.09
+  },
+  {
+    "tick": 157074,
+    "victim": "CutzMeretz",
+    "killer": "revoltz",
+    "weapon": "ak47",
+    "yawMovement": 269.88,
+    "angleDifference": 163.25,
+    "score": 56.63
+  },
+  {
+    "tick": 56021,
+    "victim": "perez",
+    "killer": "lkz",
+    "weapon": "awp",
+    "yawMovement": 73.27,
+    "angleDifference": 44.49,
+    "score": 15.71
+  },
+  {
+    "tick": 116873,
+    "victim": "revoltz",
+    "killer": "mlhzin",
+    "weapon": "hegrenade",
+    "yawMovement": 15.37,
+    "angleDifference": 15.52,
+    "score": 15.67
+  },
+  {
+    "tick": 136722,
+    "victim": "history",
+    "killer": "Jerr1",
+    "weapon": "tec9",
+    "yawMovement": 0.01,
+    "angleDifference": 3.69,
+    "score": 7.38
+  },
+  {
+    "tick": 191979,
+    "victim": "stormzyn",
+    "killer": "history",
+    "weapon": "awp",
+    "yawMovement": 8.3,
+    "angleDifference": 7.7,
+    "score": 7.09
+  },
+  {
+    "tick": 34986,
+    "victim": "history",
+    "killer": "stormzyn",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 95.86,
+    "angleDifference": 51.41,
+    "score": 6.95
+  },
+  {
+    "tick": 34722,
+    "victim": "t9rnay",
+    "killer": "revoltz",
+    "weapon": "mac10",
+    "yawMovement": 110.02,
+    "angleDifference": 57.95,
+    "score": 5.88
+  },
+  {
+    "tick": 67555,
+    "victim": "lkz",
+    "killer": "CutzMeretz",
+    "weapon": "ak47",
+    "yawMovement": 0.47,
+    "angleDifference": 1.45,
+    "score": 2.44
+  },
+  {
+    "tick": 166934,
+    "victim": "perez",
+    "killer": "fl4sh",
+    "weapon": "ak47",
+    "yawMovement": 76.67,
+    "angleDifference": 39.34,
+    "score": 2.01
+  },
+  {
+    "tick": 186239,
+    "victim": "lkz",
+    "killer": "CutzMeretz",
+    "weapon": "hegrenade",
+    "yawMovement": 0.02,
+    "angleDifference": 0.35,
+    "score": 0.68
+  },
+  {
+    "tick": 150168,
+    "victim": "CutzMeretz",
+    "killer": "stormzyn",
+    "weapon": "ak47",
+    "yawMovement": 345.24,
+    "angleDifference": 171.89,
+    "score": -1.45
+  },
+  {
+    "tick": 137303,
+    "victim": "stormzyn",
+    "killer": "CutzMeretz",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 3.08,
+    "angleDifference": 0.42,
+    "score": -2.24
+  },
+  {
+    "tick": 20046,
+    "victim": "Jerr1",
+    "killer": "perez",
+    "weapon": "ak47",
+    "yawMovement": 2.83,
+    "angleDifference": 0.06,
+    "score": -2.7
+  },
+  {
+    "tick": 4381,
+    "victim": "fl4sh",
+    "killer": "history",
+    "weapon": "p250",
+    "yawMovement": 3.89,
+    "angleDifference": 0.5,
+    "score": -2.89
+  },
+  {
+    "tick": 19290,
+    "victim": "stormzyn",
+    "killer": "CutzMeretz",
+    "weapon": "mac10",
+    "yawMovement": 10.5,
+    "angleDifference": 3.11,
+    "score": -4.28
+  },
+  {
+    "tick": 94785,
+    "victim": "Jerr1",
+    "killer": "perez",
+    "weapon": "ak47",
+    "yawMovement": 5.66,
+    "angleDifference": 0.59,
+    "score": -4.48
+  },
+  {
+    "tick": 117345,
+    "victim": "stormzyn",
+    "killer": "CutzMeretz",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 55.44,
+    "angleDifference": 24.8,
+    "score": -5.83
+  },
+  {
+    "tick": 125147,
+    "victim": "perez",
+    "killer": "stormzyn",
+    "weapon": "ak47",
+    "yawMovement": 7.85,
+    "angleDifference": 0.66,
+    "score": -6.54
+  },
+  {
+    "tick": 137368,
+    "victim": "CutzMeretz",
+    "killer": "lkz",
+    "weapon": "ak47",
+    "yawMovement": 8.79,
+    "angleDifference": 0.75,
+    "score": -7.29
+  },
+  {
+    "tick": 92071,
+    "victim": "mlhzin",
+    "killer": "Jerr1",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 8.18,
+    "angleDifference": 0.41,
+    "score": -7.36
+  },
+  {
+    "tick": 128111,
+    "victim": "mlhzin",
+    "killer": "Jerr1",
+    "weapon": "ak47",
+    "yawMovement": 16.55,
+    "angleDifference": 3.92,
+    "score": -8.71
+  },
+  {
+    "tick": 143672,
+    "victim": "t9rnay",
+    "killer": "Jerr1",
+    "weapon": "ak47",
+    "yawMovement": 10.16,
+    "angleDifference": 0.55,
+    "score": -9.07
+  },
+  {
+    "tick": 65993,
+    "victim": "history",
+    "killer": "revoltz",
+    "weapon": "ak47",
+    "yawMovement": 11.48,
+    "angleDifference": 1.04,
+    "score": -9.4
+  },
+  {
+    "tick": 149180,
+    "victim": "Jerr1",
+    "killer": "CutzMeretz",
+    "weapon": "famas",
+    "yawMovement": 15.02,
+    "angleDifference": 2.78,
+    "score": -9.47
+  },
+  {
+    "tick": 84950,
+    "victim": "revoltz",
+    "killer": "perez",
+    "weapon": "ak47",
+    "yawMovement": 10.97,
+    "angleDifference": 0.68,
+    "score": -9.62
+  },
+  {
+    "tick": 118387,
+    "victim": "mlhzin",
+    "killer": "fl4sh",
+    "weapon": "deagle",
+    "yawMovement": 16.08,
+    "angleDifference": 2.84,
+    "score": -10.39
+  },
+  {
+    "tick": 87783,
+    "victim": "Jerr1",
+    "killer": "mlhzin",
+    "weapon": "ak47",
+    "yawMovement": 12.41,
+    "angleDifference": 0.86,
+    "score": -10.7
+  },
+  {
+    "tick": 42645,
+    "victim": "fl4sh",
+    "killer": "mlhzin",
+    "weapon": "ak47",
+    "yawMovement": 14.38,
+    "angleDifference": 1.58,
+    "score": -11.22
+  },
+  {
+    "tick": 27942,
+    "victim": "lkz",
+    "killer": "history",
+    "weapon": "mac10",
+    "yawMovement": 14.49,
+    "angleDifference": 1.31,
+    "score": -11.87
+  },
+  {
+    "tick": 87271,
+    "victim": "fl4sh",
+    "killer": "mlhzin",
+    "weapon": "ak47",
+    "yawMovement": 15.17,
+    "angleDifference": 1.46,
+    "score": -12.25
+  },
+  {
+    "tick": 12569,
+    "victim": "fl4sh",
+    "killer": "t9rnay",
+    "weapon": "ak47",
+    "yawMovement": 12.96,
+    "angleDifference": 0.13,
+    "score": -12.69
+  },
+  {
+    "tick": 4852,
+    "victim": "perez",
+    "killer": "revoltz",
+    "weapon": "usp_silencer",
+    "yawMovement": 14.59,
+    "angleDifference": 0.37,
+    "score": -13.85
+  },
+  {
+    "tick": 107551,
+    "victim": "fl4sh",
+    "killer": "t9rnay",
+    "weapon": "usp_silencer",
+    "yawMovement": 14.96,
+    "angleDifference": 0.16,
+    "score": -14.65
+  },
+  {
+    "tick": 173337,
+    "victim": "CutzMeretz",
+    "killer": "stormzyn",
+    "weapon": "ak47",
+    "yawMovement": 25.84,
+    "angleDifference": 5,
+    "score": -15.84
+  },
+  {
+    "tick": 74857,
+    "victim": "fl4sh",
+    "killer": "history",
+    "weapon": "awp",
+    "yawMovement": 16.26,
+    "angleDifference": 0.1,
+    "score": -16.06
+  },
+  {
+    "tick": 8540,
+    "victim": "history",
+    "killer": "stormzyn",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 34.65,
+    "angleDifference": 9.15,
+    "score": -16.35
+  },
+  {
+    "tick": 131372,
+    "victim": "revoltz",
+    "killer": "mlhzin",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 38.33,
+    "angleDifference": 10.22,
+    "score": -17.9
+  },
+  {
+    "tick": 95332,
+    "victim": "lkz",
+    "killer": "history",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 18.84,
+    "angleDifference": 0.36,
+    "score": -18.11
+  },
+  {
+    "tick": 117333,
+    "victim": "history",
+    "killer": "stormzyn",
+    "weapon": "deagle",
+    "yawMovement": 18.8,
+    "angleDifference": 0.32,
+    "score": -18.17
+  },
+  {
+    "tick": 117489,
+    "victim": "lkz",
+    "killer": "t9rnay",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 19.96,
+    "angleDifference": 0.72,
+    "score": -18.52
+  },
+  {
+    "tick": 101385,
+    "victim": "perez",
+    "killer": "lkz",
+    "weapon": "usp_silencer",
+    "yawMovement": 32.31,
+    "angleDifference": 6.08,
+    "score": -20.14
+  },
+  {
+    "tick": 131410,
+    "victim": "fl4sh",
+    "killer": "mlhzin",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 21.99,
+    "angleDifference": 0.41,
+    "score": -21.16
+  },
+  {
+    "tick": 160366,
+    "victim": "mlhzin",
+    "killer": "stormzyn",
+    "weapon": "ak47",
+    "yawMovement": 22.57,
+    "angleDifference": 0.36,
+    "score": -21.85
+  },
+  {
+    "tick": 113082,
+    "victim": "stormzyn",
+    "killer": "perez",
+    "weapon": "mp9",
+    "yawMovement": 25.13,
+    "angleDifference": 0.38,
+    "score": -24.37
+  },
+  {
+    "tick": 91003,
+    "victim": "fl4sh",
+    "killer": "history",
+    "weapon": "awp",
+    "yawMovement": 29.64,
+    "angleDifference": 1.37,
+    "score": -26.9
+  },
+  {
+    "tick": 143868,
+    "victim": "perez",
+    "killer": "revoltz",
+    "weapon": "ak47",
+    "yawMovement": 29.81,
+    "angleDifference": 1.15,
+    "score": -27.5
+  },
+  {
+    "tick": 186237,
+    "victim": "CutzMeretz",
+    "killer": "lkz",
+    "weapon": "awp",
+    "yawMovement": 31.12,
+    "angleDifference": 1.81,
+    "score": -27.5
+  },
+  {
+    "tick": 106730,
+    "victim": "Jerr1",
+    "killer": "history",
+    "weapon": "usp_silencer",
+    "yawMovement": 52.59,
+    "angleDifference": 12.45,
+    "score": -27.69
+  },
+  {
+    "tick": 167265,
+    "victim": "history",
+    "killer": "fl4sh",
+    "weapon": "ak47",
+    "yawMovement": 30.48,
+    "angleDifference": 1.24,
+    "score": -28
+  },
+  {
+    "tick": 137259,
+    "victim": "fl4sh",
+    "killer": "CutzMeretz",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 31.1,
+    "angleDifference": 1.4,
+    "score": -28.3
+  },
+  {
+    "tick": 4567,
+    "victim": "stormzyn",
+    "killer": "CutzMeretz",
+    "weapon": "glock",
+    "yawMovement": 84.75,
+    "angleDifference": 27.96,
+    "score": -28.84
+  },
+  {
+    "tick": 95224,
+    "victim": "revoltz",
+    "killer": "CutzMeretz",
+    "weapon": "ak47",
+    "yawMovement": 43.89,
+    "angleDifference": 7.1,
+    "score": -29.69
+  },
+  {
+    "tick": 65194,
+    "victim": "fl4sh",
+    "killer": "t9rnay",
+    "weapon": "ak47",
+    "yawMovement": 35.91,
+    "angleDifference": 2.07,
+    "score": -31.77
+  },
+  {
+    "tick": 12759,
+    "victim": "mlhzin",
+    "killer": "stormzyn",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 38.36,
+    "angleDifference": 3.27,
+    "score": -31.81
+  },
+  {
+    "tick": 85451,
+    "victim": "lkz",
+    "killer": "history",
+    "weapon": "awp",
+    "yawMovement": 34.07,
+    "angleDifference": 0.81,
+    "score": -32.44
+  },
+  {
+    "tick": 13926,
+    "victim": "lkz",
+    "killer": "t9rnay",
+    "weapon": "ak47",
+    "yawMovement": 36,
+    "angleDifference": 0.64,
+    "score": -34.72
+  },
+  {
+    "tick": 99002,
+    "victim": "revoltz",
+    "killer": "perez",
+    "weapon": "ak47",
+    "yawMovement": 41.72,
+    "angleDifference": 3.25,
+    "score": -35.22
+  },
+  {
+    "tick": 132390,
+    "victim": "history",
+    "killer": "lkz",
+    "weapon": "ak47",
+    "yawMovement": 38.06,
+    "angleDifference": 0.06,
+    "score": -37.94
+  },
+  {
+    "tick": 128006,
+    "victim": "CutzMeretz",
+    "killer": "lkz",
+    "weapon": "ak47",
+    "yawMovement": 39.46,
+    "angleDifference": 0.56,
+    "score": -38.33
+  },
+  {
+    "tick": 27974,
+    "victim": "history",
+    "killer": "revoltz",
+    "weapon": "usp_silencer",
+    "yawMovement": 92.68,
+    "angleDifference": 26.88,
+    "score": -38.92
+  },
+  {
+    "tick": 166882,
+    "victim": "t9rnay",
+    "killer": "revoltz",
+    "weapon": "ak47",
+    "yawMovement": 39.73,
+    "angleDifference": 0.18,
+    "score": -39.37
+  },
+  {
+    "tick": 71611,
+    "victim": "t9rnay",
+    "killer": "fl4sh",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 69.73,
+    "angleDifference": 14.22,
+    "score": -41.29
+  },
+  {
+    "tick": 22149,
+    "victim": "lkz",
+    "killer": "history",
+    "weapon": "mac10",
+    "yawMovement": 47.3,
+    "angleDifference": 2.04,
+    "score": -43.22
+  },
+  {
+    "tick": 113799,
+    "victim": "CutzMeretz",
+    "killer": "lkz",
+    "weapon": "galilar",
+    "yawMovement": 45.29,
+    "angleDifference": 0.48,
+    "score": -44.33
+  },
+  {
+    "tick": 40986,
+    "victim": "Jerr1",
+    "killer": "mlhzin",
+    "weapon": "ak47",
+    "yawMovement": 46.11,
+    "angleDifference": 0.43,
+    "score": -45.25
+  },
+  {
+    "tick": 118621,
+    "victim": "fl4sh",
+    "killer": "t9rnay",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 49.57,
+    "angleDifference": 1.36,
+    "score": -46.86
+  },
+  {
+    "tick": 174272,
+    "victim": "fl4sh",
+    "killer": "history",
+    "weapon": "awp",
+    "yawMovement": 63.91,
+    "angleDifference": 8.24,
+    "score": -47.43
+  },
+  {
+    "tick": 13428,
+    "victim": "Jerr1",
+    "killer": "t9rnay",
+    "weapon": "ak47",
+    "yawMovement": 49.94,
+    "angleDifference": 0.03,
+    "score": -49.88
+  },
+  {
+    "tick": 56230,
+    "victim": "history",
+    "killer": "stormzyn",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 67.73,
+    "angleDifference": 8.86,
+    "score": -50
+  },
+  {
+    "tick": 174226,
+    "victim": "mlhzin",
+    "killer": "fl4sh",
+    "weapon": "ak47",
+    "yawMovement": 61.04,
+    "angleDifference": 4.41,
+    "score": -52.22
+  },
+  {
+    "tick": 50329,
+    "victim": "fl4sh",
+    "killer": "perez",
+    "weapon": "ak47",
+    "yawMovement": 55.13,
+    "angleDifference": 1.3,
+    "score": -52.54
+  },
+  {
+    "tick": 127900,
+    "victim": "stormzyn",
+    "killer": "mlhzin",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 56.92,
+    "angleDifference": 1.59,
+    "score": -53.75
+  },
+  {
+    "tick": 113600,
+    "victim": "Jerr1",
+    "killer": "CutzMeretz",
+    "weapon": "famas",
+    "yawMovement": 57.18,
+    "angleDifference": 1.49,
+    "score": -54.2
+  },
+  {
+    "tick": 113818,
+    "victim": "revoltz",
+    "killer": "history",
+    "weapon": "awp",
+    "yawMovement": 55.49,
+    "angleDifference": 0.4,
+    "score": -54.69
+  },
+  {
+    "tick": 111164,
+    "victim": "mlhzin",
+    "killer": "stormzyn",
+    "weapon": "mac10",
+    "yawMovement": 59.27,
+    "angleDifference": 1.77,
+    "score": -55.72
+  },
+  {
+    "tick": 173306,
+    "victim": "Jerr1",
+    "killer": "CutzMeretz",
+    "weapon": "famas",
+    "yawMovement": 61.94,
+    "angleDifference": 1.99,
+    "score": -57.95
+  },
+  {
+    "tick": 135107,
+    "victim": "mlhzin",
+    "killer": "stormzyn",
+    "weapon": "ak47",
+    "yawMovement": 58.9,
+    "angleDifference": 0.1,
+    "score": -58.71
+  },
+  {
+    "tick": 131041,
+    "victim": "CutzMeretz",
+    "killer": "fl4sh",
+    "weapon": "ak47",
+    "yawMovement": 73.83,
+    "angleDifference": 7.18,
+    "score": -59.46
+  },
+  {
+    "tick": 21183,
+    "victim": "revoltz",
+    "killer": "CutzMeretz",
+    "weapon": "mac10",
+    "yawMovement": 63.06,
+    "angleDifference": 1.71,
+    "score": -59.63
+  },
+  {
+    "tick": 50214,
+    "victim": "Jerr1",
+    "killer": "CutzMeretz",
+    "weapon": "ak47",
+    "yawMovement": 62.67,
+    "angleDifference": 0.98,
+    "score": -60.7
+  },
+  {
+    "tick": 160923,
+    "victim": "perez",
+    "killer": "lkz",
+    "weapon": "glock",
+    "yawMovement": 67.32,
+    "angleDifference": 3.02,
+    "score": -61.28
+  },
+  {
+    "tick": 50156,
+    "victim": "revoltz",
+    "killer": "perez",
+    "weapon": "ak47",
+    "yawMovement": 67.79,
+    "angleDifference": 3.07,
+    "score": -61.66
+  },
+  {
+    "tick": 128049,
+    "victim": "lkz",
+    "killer": "mlhzin",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 61.79,
+    "angleDifference": 0.05,
+    "score": -61.69
+  },
+  {
+    "tick": 64582,
+    "victim": "mlhzin",
+    "killer": "fl4sh",
+    "weapon": "hegrenade",
+    "yawMovement": 72.28,
+    "angleDifference": 3.04,
+    "score": -66.2
+  },
+  {
+    "tick": 105802,
+    "victim": "lkz",
+    "killer": "history",
+    "weapon": "usp_silencer",
+    "yawMovement": 76.86,
+    "angleDifference": 3.45,
+    "score": -69.96
+  },
+  {
+    "tick": 91306,
+    "victim": "stormzyn",
+    "killer": "mlhzin",
+    "weapon": "ak47",
+    "yawMovement": 79.86,
+    "angleDifference": 4.79,
+    "score": -70.27
+  },
+  {
+    "tick": 42732,
+    "victim": "revoltz",
+    "killer": "t9rnay",
+    "weapon": "ak47",
+    "yawMovement": 72.41,
+    "angleDifference": 0.49,
+    "score": -71.43
+  },
+  {
+    "tick": 157963,
+    "victim": "revoltz",
+    "killer": "history",
+    "weapon": "awp",
+    "yawMovement": 74,
+    "angleDifference": 0.31,
+    "score": -73.39
+  },
+  {
+    "tick": 4718,
+    "victim": "history",
+    "killer": "revoltz",
+    "weapon": "usp_silencer",
+    "yawMovement": 77.99,
+    "angleDifference": 0.56,
+    "score": -76.87
+  },
+  {
+    "tick": 150614,
+    "victim": "stormzyn",
+    "killer": "history",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 82.61,
+    "angleDifference": 1.68,
+    "score": -79.24
+  },
+  {
+    "tick": 105632,
+    "victim": "perez",
+    "killer": "lkz",
+    "weapon": "glock",
+    "yawMovement": 85.08,
+    "angleDifference": 2.38,
+    "score": -80.33
+  },
+  {
+    "tick": 49933,
+    "victim": "mlhzin",
+    "killer": "lkz",
+    "weapon": "awp",
+    "yawMovement": 85.27,
+    "angleDifference": 1.3,
+    "score": -82.67
+  },
+  {
+    "tick": 12984,
+    "victim": "stormzyn",
+    "killer": "CutzMeretz",
+    "weapon": "galilar",
+    "yawMovement": 84.59,
+    "angleDifference": 0.38,
+    "score": -83.83
+  },
+  {
+    "tick": 62173,
+    "victim": "stormzyn",
+    "killer": "mlhzin",
+    "weapon": "ak47",
+    "yawMovement": 85.03,
+    "angleDifference": 0.05,
+    "score": -84.94
+  },
+  {
+    "tick": 125137,
+    "victim": "t9rnay",
+    "killer": "lkz",
+    "weapon": "ak47",
+    "yawMovement": 97.02,
+    "angleDifference": 2.36,
+    "score": -92.29
+  },
+  {
+    "tick": 166661,
+    "victim": "stormzyn",
+    "killer": "mlhzin",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 95.09,
+    "angleDifference": 0.49,
+    "score": -94.12
+  },
+  {
+    "tick": 149690,
+    "victim": "lkz",
+    "killer": "CutzMeretz",
+    "weapon": "awp",
+    "yawMovement": 97.19,
+    "angleDifference": 0.17,
+    "score": -96.85
+  },
+  {
+    "tick": 192104,
+    "victim": "fl4sh",
+    "killer": "history",
+    "weapon": "awp",
+    "yawMovement": 97.56,
+    "angleDifference": 0.12,
+    "score": -97.32
+  },
+  {
+    "tick": 65270,
+    "victim": "t9rnay",
+    "killer": "lkz",
+    "weapon": "awp",
+    "yawMovement": 112.37,
+    "angleDifference": 5.16,
+    "score": -102.04
+  },
+  {
+    "tick": 167121,
+    "victim": "mlhzin",
+    "killer": "lkz",
+    "weapon": "awp",
+    "yawMovement": 120.59,
+    "angleDifference": 3.92,
+    "score": -112.75
+  },
+  {
+    "tick": 66237,
+    "victim": "revoltz",
+    "killer": "CutzMeretz",
+    "weapon": "ak47",
+    "yawMovement": 113.71,
+    "angleDifference": 0.34,
+    "score": -113.02
+  },
+  {
+    "tick": 99218,
+    "victim": "Jerr1",
+    "killer": "history",
+    "weapon": "awp",
+    "yawMovement": 124.62,
+    "angleDifference": 3.31,
+    "score": -118
+  },
+  {
+    "tick": 161005,
+    "victim": "stormzyn",
+    "killer": "history",
+    "weapon": "awp",
+    "yawMovement": 185.9,
+    "angleDifference": 33.51,
+    "score": -118.87
+  },
+  {
+    "tick": 65793,
+    "victim": "perez",
+    "killer": "revoltz",
+    "weapon": "ak47",
+    "yawMovement": 120.95,
+    "angleDifference": 0.17,
+    "score": -120.61
+  },
+  {
+    "tick": 167046,
+    "victim": "revoltz",
+    "killer": "history",
+    "weapon": "awp",
+    "yawMovement": 167.2,
+    "angleDifference": 22.56,
+    "score": -122.09
+  },
+  {
+    "tick": 98995,
+    "victim": "CutzMeretz",
+    "killer": "revoltz",
+    "weapon": "mp9",
+    "yawMovement": 127.08,
+    "angleDifference": 2.48,
+    "score": -122.13
+  },
+  {
+    "tick": 99084,
+    "victim": "t9rnay",
+    "killer": "Jerr1",
+    "weapon": "mp9",
+    "yawMovement": 134.74,
+    "angleDifference": 3.65,
+    "score": -127.43
+  },
+  {
+    "tick": 100320,
+    "victim": "history",
+    "killer": "lkz",
+    "weapon": "ssg08",
+    "yawMovement": 128.3,
+    "angleDifference": 0.25,
+    "score": -127.8
+  },
+  {
+    "tick": 42616,
+    "victim": "CutzMeretz",
+    "killer": "fl4sh",
+    "weapon": "ak47",
+    "yawMovement": 134.68,
+    "angleDifference": 0.27,
+    "score": -134.14
+  },
+  {
+    "tick": 107886,
+    "victim": "revoltz",
+    "killer": "history",
+    "weapon": "usp_silencer",
+    "yawMovement": 171.38,
+    "angleDifference": 16.26,
+    "score": -138.86
+  },
+  {
+    "tick": 101012,
+    "victim": "fl4sh",
+    "killer": "perez",
+    "weapon": "ak47",
+    "yawMovement": 205.74,
+    "angleDifference": 32.99,
+    "score": -139.76
+  },
+  {
+    "tick": 114060,
+    "victim": "lkz",
+    "killer": "t9rnay",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 152.93,
+    "angleDifference": 1.29,
+    "score": -150.34
+  },
+  {
+    "tick": 106437,
+    "victim": "stormzyn",
+    "killer": "history",
+    "weapon": "usp_silencer",
+    "yawMovement": 155.59,
+    "angleDifference": 1.75,
+    "score": -152.09
+  },
+  {
+    "tick": 33979,
+    "victim": "CutzMeretz",
+    "killer": "Jerr1",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 154.42,
+    "angleDifference": 0.39,
+    "score": -153.64
+  },
+  {
+    "tick": 87361,
+    "victim": "stormzyn",
+    "killer": "CutzMeretz",
+    "weapon": "ak47",
+    "yawMovement": 257.18,
+    "angleDifference": 51.64,
+    "score": -153.9
+  },
+  {
+    "tick": 107864,
+    "victim": "CutzMeretz",
+    "killer": "revoltz",
+    "weapon": "glock",
+    "yawMovement": 157.64,
+    "angleDifference": 1.36,
+    "score": -154.91
+  },
+  {
+    "tick": 34778,
+    "victim": "mlhzin",
+    "killer": "Jerr1",
+    "weapon": "usp_silencer",
+    "yawMovement": 161.52,
+    "angleDifference": 0.67,
+    "score": -160.17
+  },
+  {
+    "tick": 148766,
+    "victim": "mlhzin",
+    "killer": "revoltz",
+    "weapon": "ak47",
+    "yawMovement": 174.56,
+    "angleDifference": 5.86,
+    "score": -162.84
+  },
+  {
+    "tick": 160562,
+    "victim": "Jerr1",
+    "killer": "perez",
+    "weapon": "usp_silencer",
+    "yawMovement": 359.81,
+    "angleDifference": 95.42,
+    "score": -168.97
+  },
+  {
+    "tick": 13722,
+    "victim": "CutzMeretz",
+    "killer": "lkz",
+    "weapon": "famas",
+    "yawMovement": 201.14,
+    "angleDifference": 7.09,
+    "score": -186.95
+  },
+  {
+    "tick": 85073,
+    "victim": "perez",
+    "killer": "lkz",
+    "weapon": "awp",
+    "yawMovement": 224.33,
+    "angleDifference": 17.3,
+    "score": -189.72
+  },
+  {
+    "tick": 169773,
+    "victim": "CutzMeretz",
+    "killer": "lkz",
+    "weapon": "awp",
+    "yawMovement": 190.59,
+    "angleDifference": 0.27,
+    "score": -190.06
+  },
+  {
+    "tick": 174518,
+    "victim": "t9rnay",
+    "killer": "revoltz",
+    "weapon": "mac10",
+    "yawMovement": 203.41,
+    "angleDifference": 4.71,
+    "score": -193.98
+  },
+  {
+    "tick": 125007,
+    "victim": "revoltz",
+    "killer": "t9rnay",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 200.78,
+    "angleDifference": 2.21,
+    "score": -196.35
+  },
+  {
+    "tick": 130936,
+    "victim": "Jerr1",
+    "killer": "mlhzin",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 239.12,
+    "angleDifference": 19.59,
+    "score": -199.95
+  },
+  {
+    "tick": 100978,
+    "victim": "mlhzin",
+    "killer": "fl4sh",
+    "weapon": "famas",
+    "yawMovement": 206.47,
+    "angleDifference": 0.91,
+    "score": -204.65
+  },
+  {
+    "tick": 166670,
+    "victim": "Jerr1",
+    "killer": "t9rnay",
+    "weapon": "ak47",
+    "yawMovement": 224.04,
+    "angleDifference": 0.21,
+    "score": -223.62
+  },
+  {
+    "tick": 4652,
+    "victim": "CutzMeretz",
+    "killer": "revoltz",
+    "weapon": "usp_silencer",
+    "yawMovement": 240.44,
+    "angleDifference": 4.15,
+    "score": -232.15
+  },
+  {
+    "tick": 18699,
+    "victim": "fl4sh",
+    "killer": "t9rnay",
+    "weapon": "ak47",
+    "yawMovement": 245.74,
+    "angleDifference": 5.67,
+    "score": -234.41
+  },
+  {
+    "tick": 70285,
+    "victim": "stormzyn",
+    "killer": "t9rnay",
+    "weapon": "ak47",
+    "yawMovement": 273.79,
+    "angleDifference": 6.58,
+    "score": -260.63
+  },
+  {
+    "tick": 50256,
+    "victim": "CutzMeretz",
+    "killer": "fl4sh",
+    "weapon": "m4a1_silencer",
+    "yawMovement": 276.91,
+    "angleDifference": 3.4,
+    "score": -270.1
+  },
+  {
+    "tick": 64913,
+    "victim": "Jerr1",
+    "killer": "CutzMeretz",
+    "weapon": "ak47",
+    "yawMovement": 318.19,
+    "angleDifference": 1.03,
+    "score": -316.13
+  },
+  {
+    "tick": 34390,
+    "victim": "perez",
+    "killer": "revoltz",
+    "weapon": "mac10",
+    "yawMovement": 512.04,
+    "angleDifference": 10.52,
+    "score": -491.01
+  }
+]
