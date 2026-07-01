@@ -1,36 +1,20 @@
 # CS2 Demo Analyzer
 
-A Node.js + TypeScript project that analyzes Counter-Strike 2 demo files and detects potential "false confidence" deaths, where a player dies after failing to properly clear an angle.
+A TypeScript tool that analyzes Counter-Strike 2 demo files using `@laihoe/demoparser2`.
 
 ## Features
 
-- Parse CS2 `.dem` files
-- Extract player death events
-- Extract player positions and view angles
-- Score suspicious deaths based on:
-  - victim view direction
-  - mouse movement before death
-  - angle to attacker
-- Export results to `analysis.json`
-
-## Installation
-
-```bash
-npm install
-```
+- Parses player death events
+- Tracks player positions and view angles
+- Calculates mouse movement before death
+- Measures the victim's viewing angle relative to the killer
+- Scores deaths based on surprise
+- Outputs ranked results to `analysis.json`
+- Includes `startTick` and `endTick` to simplify video rendering
 
 ## Run
 
 ```bash
+npm install
 npm start
 ```
-
-## Output
-
-The analyzer creates:
-
-```
-analysis.json
-```
-
-containing ranked candidate moments for manual review.
