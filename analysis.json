@@ -1,6 +1,8 @@
 [
   {
+    "startTick": 187018,
     "tick": 187338,
+    "endTick": 187466,
     "victim": "revoltz",
     "killer": "t9rnay",
     "weapon": "m4a1_silencer",
@@ -9,7 +11,9 @@
     "score": 321.88
   },
   {
+    "startTick": 5135,
     "tick": 5455,
+    "endTick": 5583,
     "victim": "lkz",
     "killer": "t9rnay",
     "weapon": "glock",
@@ -18,7 +22,9 @@
     "score": 306.55
   },
   {
+    "startTick": 5405,
     "tick": 5725,
+    "endTick": 5853,
     "victim": "Jerr1",
     "killer": "t9rnay",
     "weapon": "glock",
@@ -27,7 +33,9 @@
     "score": 245.61
   },
   {
+    "startTick": 117975,
     "tick": 118295,
+    "endTick": 118423,
     "victim": "Jerr1",
     "killer": "perez",
     "weapon": "m4a1",
@@ -36,7 +44,9 @@
     "score": 202.92
   },
   {
+    "startTick": 4536,
     "tick": 4856,
+    "endTick": 4984,
     "victim": "revoltz",
     "killer": "t9rnay",
     "weapon": "glock",
@@ -45,7 +55,9 @@
     "score": 174.5
   },
   {
+    "startTick": 99786,
     "tick": 100106,
+    "endTick": 100234,
     "victim": "stormzyn",
     "killer": "perez",
     "weapon": "ak47",
@@ -54,7 +66,9 @@
     "score": 161.16
   },
   {
+    "startTick": 135752,
     "tick": 136072,
+    "endTick": 136200,
     "victim": "t9rnay",
     "killer": "revoltz",
     "weapon": "deagle",
@@ -63,7 +77,9 @@
     "score": 142.15
   },
   {
+    "startTick": 160625,
     "tick": 160945,
+    "endTick": 161073,
     "victim": "lkz",
     "killer": "t9rnay",
     "weapon": "usp_silencer",
@@ -72,7 +88,9 @@
     "score": 126.36
   },
   {
+    "startTick": 94908,
     "tick": 95228,
+    "endTick": 95356,
     "victim": "perez",
     "killer": "lkz",
     "weapon": "m4a1_silencer",
@@ -81,7 +99,9 @@
     "score": 108.29
   },
   {
+    "startTick": 113101,
     "tick": 113421,
+    "endTick": 113549,
     "victim": "fl4sh",
     "killer": "CutzMeretz",
     "weapon": "famas",
@@ -90,7 +110,9 @@
     "score": 95.63
   },
   {
+    "startTick": 132180,
     "tick": 132500,
+    "endTick": 132628,
     "victim": "lkz",
     "killer": "mlhzin",
     "weapon": "m4a1_silencer",
@@ -99,7 +121,9 @@
     "score": 87.82
   },
   {
+    "startTick": 191964,
     "tick": 192284,
+    "endTick": 192412,
     "victim": "Jerr1",
     "killer": "perez",
     "weapon": "m4a1",
@@ -108,7 +132,9 @@
     "score": 81.5
   },
   {
+    "startTick": 13642,
     "tick": 13962,
+    "endTick": 14090,
     "victim": "revoltz",
     "killer": "perez",
     "weapon": "famas",
@@ -117,7 +143,9 @@
     "score": 77.25
   },
   {
+    "startTick": 55993,
     "tick": 56313,
+    "endTick": 56441,
     "victim": "t9rnay",
     "killer": "stormzyn",
     "weapon": "m4a1_silencer",
@@ -126,7 +154,9 @@
     "score": 76.59
   },
   {
+    "startTick": 130720,
     "tick": 131040,
+    "endTick": 131168,
     "victim": "stormzyn",
     "killer": "t9rnay",
     "weapon": "m4a1_silencer",
@@ -135,7 +165,9 @@
     "score": 75.17
   },
   {
+    "startTick": 127261,
     "tick": 127581,
+    "endTick": 127709,
     "victim": "fl4sh",
     "killer": "mlhzin",
     "weapon": "m4a1_silencer",
@@ -144,7 +176,9 @@
     "score": 67.09
   },
   {
+    "startTick": 156754,
     "tick": 157074,
+    "endTick": 157202,
     "victim": "CutzMeretz",
     "killer": "revoltz",
     "weapon": "ak47",
@@ -153,7 +187,9 @@
     "score": 56.63
   },
   {
+    "startTick": 55701,
     "tick": 56021,
+    "endTick": 56149,
     "victim": "perez",
     "killer": "lkz",
     "weapon": "awp",
@@ -162,7 +198,9 @@
     "score": 15.71
   },
   {
+    "startTick": 116553,
     "tick": 116873,
+    "endTick": 117001,
     "victim": "revoltz",
     "killer": "mlhzin",
     "weapon": "hegrenade",
@@ -171,7 +209,9 @@
     "score": 15.67
   },
   {
+    "startTick": 136402,
     "tick": 136722,
+    "endTick": 136850,
     "victim": "history",
     "killer": "Jerr1",
     "weapon": "tec9",
@@ -180,7 +220,9 @@
     "score": 7.38
   },
   {
+    "startTick": 191659,
     "tick": 191979,
+    "endTick": 192107,
     "victim": "stormzyn",
     "killer": "history",
     "weapon": "awp",
@@ -189,7 +231,9 @@
     "score": 7.09
   },
   {
+    "startTick": 34666,
     "tick": 34986,
+    "endTick": 35114,
     "victim": "history",
     "killer": "stormzyn",
     "weapon": "m4a1_silencer",
@@ -198,7 +242,9 @@
     "score": 6.95
   },
   {
+    "startTick": 34402,
     "tick": 34722,
+    "endTick": 34850,
     "victim": "t9rnay",
     "killer": "revoltz",
     "weapon": "mac10",
@@ -207,7 +253,9 @@
     "score": 5.88
   },
   {
+    "startTick": 67235,
     "tick": 67555,
+    "endTick": 67683,
     "victim": "lkz",
     "killer": "CutzMeretz",
     "weapon": "ak47",
@@ -216,7 +264,9 @@
     "score": 2.44
   },
   {
+    "startTick": 166614,
     "tick": 166934,
+    "endTick": 167062,
     "victim": "perez",
     "killer": "fl4sh",
     "weapon": "ak47",
@@ -225,7 +275,9 @@
     "score": 2.01
   },
   {
+    "startTick": 185919,
     "tick": 186239,
+    "endTick": 186367,
     "victim": "lkz",
     "killer": "CutzMeretz",
     "weapon": "hegrenade",
@@ -234,7 +286,9 @@
     "score": 0.68
   },
   {
+    "startTick": 149848,
     "tick": 150168,
+    "endTick": 150296,
     "victim": "CutzMeretz",
     "killer": "stormzyn",
     "weapon": "ak47",
@@ -243,7 +297,9 @@
     "score": -1.45
   },
   {
+    "startTick": 136983,
     "tick": 137303,
+    "endTick": 137431,
     "victim": "stormzyn",
     "killer": "CutzMeretz",
     "weapon": "m4a1_silencer",
@@ -252,7 +308,9 @@
     "score": -2.24
   },
   {
+    "startTick": 19726,
     "tick": 20046,
+    "endTick": 20174,
     "victim": "Jerr1",
     "killer": "perez",
     "weapon": "ak47",
@@ -261,7 +319,9 @@
     "score": -2.7
   },
   {
+    "startTick": 4061,
     "tick": 4381,
+    "endTick": 4509,
     "victim": "fl4sh",
     "killer": "history",
     "weapon": "p250",
@@ -270,7 +330,9 @@
     "score": -2.89
   },
   {
+    "startTick": 18970,
     "tick": 19290,
+    "endTick": 19418,
     "victim": "stormzyn",
     "killer": "CutzMeretz",
     "weapon": "mac10",
@@ -279,7 +341,9 @@
     "score": -4.28
   },
   {
+    "startTick": 94465,
     "tick": 94785,
+    "endTick": 94913,
     "victim": "Jerr1",
     "killer": "perez",
     "weapon": "ak47",
@@ -288,7 +352,9 @@
     "score": -4.48
   },
   {
+    "startTick": 117025,
     "tick": 117345,
+    "endTick": 117473,
     "victim": "stormzyn",
     "killer": "CutzMeretz",
     "weapon": "m4a1_silencer",
@@ -297,7 +363,9 @@
     "score": -5.83
   },
   {
+    "startTick": 124827,
     "tick": 125147,
+    "endTick": 125275,
     "victim": "perez",
     "killer": "stormzyn",
     "weapon": "ak47",
@@ -306,7 +374,9 @@
     "score": -6.54
   },
   {
+    "startTick": 137048,
     "tick": 137368,
+    "endTick": 137496,
     "victim": "CutzMeretz",
     "killer": "lkz",
     "weapon": "ak47",
@@ -315,7 +385,9 @@
     "score": -7.29
   },
   {
+    "startTick": 91751,
     "tick": 92071,
+    "endTick": 92199,
     "victim": "mlhzin",
     "killer": "Jerr1",
     "weapon": "m4a1_silencer",
@@ -324,7 +396,9 @@
     "score": -7.36
   },
   {
+    "startTick": 127791,
     "tick": 128111,
+    "endTick": 128239,
     "victim": "mlhzin",
     "killer": "Jerr1",
     "weapon": "ak47",
@@ -333,7 +407,9 @@
     "score": -8.71
   },
   {
+    "startTick": 143352,
     "tick": 143672,
+    "endTick": 143800,
     "victim": "t9rnay",
     "killer": "Jerr1",
     "weapon": "ak47",
@@ -342,7 +418,9 @@
     "score": -9.07
   },
   {
+    "startTick": 65673,
     "tick": 65993,
+    "endTick": 66121,
     "victim": "history",
     "killer": "revoltz",
     "weapon": "ak47",
@@ -351,7 +429,9 @@
     "score": -9.4
   },
   {
+    "startTick": 148860,
     "tick": 149180,
+    "endTick": 149308,
     "victim": "Jerr1",
     "killer": "CutzMeretz",
     "weapon": "famas",
@@ -360,7 +440,9 @@
     "score": -9.47
   },
   {
+    "startTick": 84630,
     "tick": 84950,
+    "endTick": 85078,
     "victim": "revoltz",
     "killer": "perez",
     "weapon": "ak47",
@@ -369,7 +451,9 @@
     "score": -9.62
   },
   {
+    "startTick": 118067,
     "tick": 118387,
+    "endTick": 118515,
     "victim": "mlhzin",
     "killer": "fl4sh",
     "weapon": "deagle",
@@ -378,7 +462,9 @@
     "score": -10.39
   },
   {
+    "startTick": 87463,
     "tick": 87783,
+    "endTick": 87911,
     "victim": "Jerr1",
     "killer": "mlhzin",
     "weapon": "ak47",
@@ -387,7 +473,9 @@
     "score": -10.7
   },
   {
+    "startTick": 42325,
     "tick": 42645,
+    "endTick": 42773,
     "victim": "fl4sh",
     "killer": "mlhzin",
     "weapon": "ak47",
@@ -396,7 +484,9 @@
     "score": -11.22
   },
   {
+    "startTick": 27622,
     "tick": 27942,
+    "endTick": 28070,
     "victim": "lkz",
     "killer": "history",
     "weapon": "mac10",
@@ -405,7 +495,9 @@
     "score": -11.87
   },
   {
+    "startTick": 86951,
     "tick": 87271,
+    "endTick": 87399,
     "victim": "fl4sh",
     "killer": "mlhzin",
     "weapon": "ak47",
@@ -414,7 +506,9 @@
     "score": -12.25
   },
   {
+    "startTick": 12249,
     "tick": 12569,
+    "endTick": 12697,
     "victim": "fl4sh",
     "killer": "t9rnay",
     "weapon": "ak47",
@@ -423,7 +517,9 @@
     "score": -12.69
   },
   {
+    "startTick": 4532,
     "tick": 4852,
+    "endTick": 4980,
     "victim": "perez",
     "killer": "revoltz",
     "weapon": "usp_silencer",
@@ -432,7 +528,9 @@
     "score": -13.85
   },
   {
+    "startTick": 107231,
     "tick": 107551,
+    "endTick": 107679,
     "victim": "fl4sh",
     "killer": "t9rnay",
     "weapon": "usp_silencer",
@@ -441,7 +539,9 @@
     "score": -14.65
   },
   {
+    "startTick": 173017,
     "tick": 173337,
+    "endTick": 173465,
     "victim": "CutzMeretz",
     "killer": "stormzyn",
     "weapon": "ak47",
@@ -450,7 +550,9 @@
     "score": -15.84
   },
   {
+    "startTick": 74537,
     "tick": 74857,
+    "endTick": 74985,
     "victim": "fl4sh",
     "killer": "history",
     "weapon": "awp",
@@ -459,7 +561,9 @@
     "score": -16.06
   },
   {
+    "startTick": 8220,
     "tick": 8540,
+    "endTick": 8668,
     "victim": "history",
     "killer": "stormzyn",
     "weapon": "m4a1_silencer",
@@ -468,7 +572,9 @@
     "score": -16.35
   },
   {
+    "startTick": 131052,
     "tick": 131372,
+    "endTick": 131500,
     "victim": "revoltz",
     "killer": "mlhzin",
     "weapon": "m4a1_silencer",
@@ -477,7 +583,9 @@
     "score": -17.9
   },
   {
+    "startTick": 95012,
     "tick": 95332,
+    "endTick": 95460,
     "victim": "lkz",
     "killer": "history",
     "weapon": "m4a1_silencer",
@@ -486,7 +594,9 @@
     "score": -18.11
   },
   {
+    "startTick": 117013,
     "tick": 117333,
+    "endTick": 117461,
     "victim": "history",
     "killer": "stormzyn",
     "weapon": "deagle",
@@ -495,7 +605,9 @@
     "score": -18.17
   },
   {
+    "startTick": 117169,
     "tick": 117489,
+    "endTick": 117617,
     "victim": "lkz",
     "killer": "t9rnay",
     "weapon": "m4a1_silencer",
@@ -504,7 +616,9 @@
     "score": -18.52
   },
   {
+    "startTick": 101065,
     "tick": 101385,
+    "endTick": 101513,
     "victim": "perez",
     "killer": "lkz",
     "weapon": "usp_silencer",
@@ -513,7 +627,9 @@
     "score": -20.14
   },
   {
+    "startTick": 131090,
     "tick": 131410,
+    "endTick": 131538,
     "victim": "fl4sh",
     "killer": "mlhzin",
     "weapon": "m4a1_silencer",
@@ -522,7 +638,9 @@
     "score": -21.16
   },
   {
+    "startTick": 160046,
     "tick": 160366,
+    "endTick": 160494,
     "victim": "mlhzin",
     "killer": "stormzyn",
     "weapon": "ak47",
@@ -531,7 +649,9 @@
     "score": -21.85
   },
   {
+    "startTick": 112762,
     "tick": 113082,
+    "endTick": 113210,
     "victim": "stormzyn",
     "killer": "perez",
     "weapon": "mp9",
@@ -540,7 +660,9 @@
     "score": -24.37
   },
   {
+    "startTick": 90683,
     "tick": 91003,
+    "endTick": 91131,
     "victim": "fl4sh",
     "killer": "history",
     "weapon": "awp",
@@ -549,7 +671,9 @@
     "score": -26.9
   },
   {
+    "startTick": 143548,
     "tick": 143868,
+    "endTick": 143996,
     "victim": "perez",
     "killer": "revoltz",
     "weapon": "ak47",
@@ -558,7 +682,9 @@
     "score": -27.5
   },
   {
+    "startTick": 185917,
     "tick": 186237,
+    "endTick": 186365,
     "victim": "CutzMeretz",
     "killer": "lkz",
     "weapon": "awp",
@@ -567,7 +693,9 @@
     "score": -27.5
   },
   {
+    "startTick": 106410,
     "tick": 106730,
+    "endTick": 106858,
     "victim": "Jerr1",
     "killer": "history",
     "weapon": "usp_silencer",
@@ -576,7 +704,9 @@
     "score": -27.69
   },
   {
+    "startTick": 166945,
     "tick": 167265,
+    "endTick": 167393,
     "victim": "history",
     "killer": "fl4sh",
     "weapon": "ak47",
@@ -585,7 +715,9 @@
     "score": -28
   },
   {
+    "startTick": 136939,
     "tick": 137259,
+    "endTick": 137387,
     "victim": "fl4sh",
     "killer": "CutzMeretz",
     "weapon": "m4a1_silencer",
@@ -594,7 +726,9 @@
     "score": -28.3
   },
   {
+    "startTick": 4247,
     "tick": 4567,
+    "endTick": 4695,
     "victim": "stormzyn",
     "killer": "CutzMeretz",
     "weapon": "glock",
@@ -603,7 +737,9 @@
     "score": -28.84
   },
   {
+    "startTick": 94904,
     "tick": 95224,
+    "endTick": 95352,
     "victim": "revoltz",
     "killer": "CutzMeretz",
     "weapon": "ak47",
@@ -612,7 +748,9 @@
     "score": -29.69
   },
   {
+    "startTick": 64874,
     "tick": 65194,
+    "endTick": 65322,
     "victim": "fl4sh",
     "killer": "t9rnay",
     "weapon": "ak47",
@@ -621,7 +759,9 @@
     "score": -31.77
   },
   {
+    "startTick": 12439,
     "tick": 12759,
+    "endTick": 12887,
     "victim": "mlhzin",
     "killer": "stormzyn",
     "weapon": "m4a1_silencer",
@@ -630,7 +770,9 @@
     "score": -31.81
   },
   {
+    "startTick": 85131,
     "tick": 85451,
+    "endTick": 85579,
     "victim": "lkz",
     "killer": "history",
     "weapon": "awp",
@@ -639,7 +781,9 @@
     "score": -32.44
   },
   {
+    "startTick": 13606,
     "tick": 13926,
+    "endTick": 14054,
     "victim": "lkz",
     "killer": "t9rnay",
     "weapon": "ak47",
@@ -648,7 +792,9 @@
     "score": -34.72
   },
   {
+    "startTick": 98682,
     "tick": 99002,
+    "endTick": 99130,
     "victim": "revoltz",
     "killer": "perez",
     "weapon": "ak47",
@@ -657,7 +803,9 @@
     "score": -35.22
   },
   {
+    "startTick": 132070,
     "tick": 132390,
+    "endTick": 132518,
     "victim": "history",
     "killer": "lkz",
     "weapon": "ak47",
@@ -666,7 +814,9 @@
     "score": -37.94
   },
   {
+    "startTick": 127686,
     "tick": 128006,
+    "endTick": 128134,
     "victim": "CutzMeretz",
     "killer": "lkz",
     "weapon": "ak47",
@@ -675,7 +825,9 @@
     "score": -38.33
   },
   {
+    "startTick": 27654,
     "tick": 27974,
+    "endTick": 28102,
     "victim": "history",
     "killer": "revoltz",
     "weapon": "usp_silencer",
@@ -684,7 +836,9 @@
     "score": -38.92
   },
   {
+    "startTick": 166562,
     "tick": 166882,
+    "endTick": 167010,
     "victim": "t9rnay",
     "killer": "revoltz",
     "weapon": "ak47",
@@ -693,7 +847,9 @@
     "score": -39.37
   },
   {
+    "startTick": 71291,
     "tick": 71611,
+    "endTick": 71739,
     "victim": "t9rnay",
     "killer": "fl4sh",
     "weapon": "m4a1_silencer",
@@ -702,7 +858,9 @@
     "score": -41.29
   },
   {
+    "startTick": 21829,
     "tick": 22149,
+    "endTick": 22277,
     "victim": "lkz",
     "killer": "history",
     "weapon": "mac10",
@@ -711,7 +869,9 @@
     "score": -43.22
   },
   {
+    "startTick": 113479,
     "tick": 113799,
+    "endTick": 113927,
     "victim": "CutzMeretz",
     "killer": "lkz",
     "weapon": "galilar",
@@ -720,7 +880,9 @@
     "score": -44.33
   },
   {
+    "startTick": 40666,
     "tick": 40986,
+    "endTick": 41114,
     "victim": "Jerr1",
     "killer": "mlhzin",
     "weapon": "ak47",
@@ -729,7 +891,9 @@
     "score": -45.25
   },
   {
+    "startTick": 118301,
     "tick": 118621,
+    "endTick": 118749,
     "victim": "fl4sh",
     "killer": "t9rnay",
     "weapon": "m4a1_silencer",
@@ -738,7 +902,9 @@
     "score": -46.86
   },
   {
+    "startTick": 173952,
     "tick": 174272,
+    "endTick": 174400,
     "victim": "fl4sh",
     "killer": "history",
     "weapon": "awp",
@@ -747,7 +913,9 @@
     "score": -47.43
   },
   {
+    "startTick": 13108,
     "tick": 13428,
+    "endTick": 13556,
     "victim": "Jerr1",
     "killer": "t9rnay",
     "weapon": "ak47",
@@ -756,7 +924,9 @@
     "score": -49.88
   },
   {
+    "startTick": 55910,
     "tick": 56230,
+    "endTick": 56358,
     "victim": "history",
     "killer": "stormzyn",
     "weapon": "m4a1_silencer",
@@ -765,7 +935,9 @@
     "score": -50
   },
   {
+    "startTick": 173906,
     "tick": 174226,
+    "endTick": 174354,
     "victim": "mlhzin",
     "killer": "fl4sh",
     "weapon": "ak47",
@@ -774,7 +946,9 @@
     "score": -52.22
   },
   {
+    "startTick": 50009,
     "tick": 50329,
+    "endTick": 50457,
     "victim": "fl4sh",
     "killer": "perez",
     "weapon": "ak47",
@@ -783,7 +957,9 @@
     "score": -52.54
   },
   {
+    "startTick": 127580,
     "tick": 127900,
+    "endTick": 128028,
     "victim": "stormzyn",
     "killer": "mlhzin",
     "weapon": "m4a1_silencer",
@@ -792,7 +968,9 @@
     "score": -53.75
   },
   {
+    "startTick": 113280,
     "tick": 113600,
+    "endTick": 113728,
     "victim": "Jerr1",
     "killer": "CutzMeretz",
     "weapon": "famas",
@@ -801,7 +979,9 @@
     "score": -54.2
   },
   {
+    "startTick": 113498,
     "tick": 113818,
+    "endTick": 113946,
     "victim": "revoltz",
     "killer": "history",
     "weapon": "awp",
@@ -810,7 +990,9 @@
     "score": -54.69
   },
   {
+    "startTick": 110844,
     "tick": 111164,
+    "endTick": 111292,
     "victim": "mlhzin",
     "killer": "stormzyn",
     "weapon": "mac10",
@@ -819,7 +1001,9 @@
     "score": -55.72
   },
   {
+    "startTick": 172986,
     "tick": 173306,
+    "endTick": 173434,
     "victim": "Jerr1",
     "killer": "CutzMeretz",
     "weapon": "famas",
@@ -828,7 +1012,9 @@
     "score": -57.95
   },
   {
+    "startTick": 134787,
     "tick": 135107,
+    "endTick": 135235,
     "victim": "mlhzin",
     "killer": "stormzyn",
     "weapon": "ak47",
@@ -837,7 +1023,9 @@
     "score": -58.71
   },
   {
+    "startTick": 130721,
     "tick": 131041,
+    "endTick": 131169,
     "victim": "CutzMeretz",
     "killer": "fl4sh",
     "weapon": "ak47",
@@ -846,7 +1034,9 @@
     "score": -59.46
   },
   {
+    "startTick": 20863,
     "tick": 21183,
+    "endTick": 21311,
     "victim": "revoltz",
     "killer": "CutzMeretz",
     "weapon": "mac10",
@@ -855,7 +1045,9 @@
     "score": -59.63
   },
   {
+    "startTick": 49894,
     "tick": 50214,
+    "endTick": 50342,
     "victim": "Jerr1",
     "killer": "CutzMeretz",
     "weapon": "ak47",
@@ -864,7 +1056,9 @@
     "score": -60.7
   },
   {
+    "startTick": 160603,
     "tick": 160923,
+    "endTick": 161051,
     "victim": "perez",
     "killer": "lkz",
     "weapon": "glock",
@@ -873,7 +1067,9 @@
     "score": -61.28
   },
   {
+    "startTick": 49836,
     "tick": 50156,
+    "endTick": 50284,
     "victim": "revoltz",
     "killer": "perez",
     "weapon": "ak47",
@@ -882,7 +1078,9 @@
     "score": -61.66
   },
   {
+    "startTick": 127729,
     "tick": 128049,
+    "endTick": 128177,
     "victim": "lkz",
     "killer": "mlhzin",
     "weapon": "m4a1_silencer",
@@ -891,7 +1089,9 @@
     "score": -61.69
   },
   {
+    "startTick": 64262,
     "tick": 64582,
+    "endTick": 64710,
     "victim": "mlhzin",
     "killer": "fl4sh",
     "weapon": "hegrenade",
@@ -900,7 +1100,9 @@
     "score": -66.2
   },
   {
+    "startTick": 105482,
     "tick": 105802,
+    "endTick": 105930,
     "victim": "lkz",
     "killer": "history",
     "weapon": "usp_silencer",
@@ -909,7 +1111,9 @@
     "score": -69.96
   },
   {
+    "startTick": 90986,
     "tick": 91306,
+    "endTick": 91434,
     "victim": "stormzyn",
     "killer": "mlhzin",
     "weapon": "ak47",
@@ -918,7 +1122,9 @@
     "score": -70.27
   },
   {
+    "startTick": 42412,
     "tick": 42732,
+    "endTick": 42860,
     "victim": "revoltz",
     "killer": "t9rnay",
     "weapon": "ak47",
@@ -927,7 +1133,9 @@
     "score": -71.43
   },
   {
+    "startTick": 157643,
     "tick": 157963,
+    "endTick": 158091,
     "victim": "revoltz",
     "killer": "history",
     "weapon": "awp",
@@ -936,7 +1144,9 @@
     "score": -73.39
   },
   {
+    "startTick": 4398,
     "tick": 4718,
+    "endTick": 4846,
     "victim": "history",
     "killer": "revoltz",
     "weapon": "usp_silencer",
@@ -945,7 +1155,9 @@
     "score": -76.87
   },
   {
+    "startTick": 150294,
     "tick": 150614,
+    "endTick": 150742,
     "victim": "stormzyn",
     "killer": "history",
     "weapon": "m4a1_silencer",
@@ -954,7 +1166,9 @@
     "score": -79.24
   },
   {
+    "startTick": 105312,
     "tick": 105632,
+    "endTick": 105760,
     "victim": "perez",
     "killer": "lkz",
     "weapon": "glock",
@@ -963,7 +1177,9 @@
     "score": -80.33
   },
   {
+    "startTick": 49613,
     "tick": 49933,
+    "endTick": 50061,
     "victim": "mlhzin",
     "killer": "lkz",
     "weapon": "awp",
@@ -972,7 +1188,9 @@
     "score": -82.67
   },
   {
+    "startTick": 12664,
     "tick": 12984,
+    "endTick": 13112,
     "victim": "stormzyn",
     "killer": "CutzMeretz",
     "weapon": "galilar",
@@ -981,7 +1199,9 @@
     "score": -83.83
   },
   {
+    "startTick": 61853,
     "tick": 62173,
+    "endTick": 62301,
     "victim": "stormzyn",
     "killer": "mlhzin",
     "weapon": "ak47",
@@ -990,7 +1210,9 @@
     "score": -84.94
   },
   {
+    "startTick": 124817,
     "tick": 125137,
+    "endTick": 125265,
     "victim": "t9rnay",
     "killer": "lkz",
     "weapon": "ak47",
@@ -999,7 +1221,9 @@
     "score": -92.29
   },
   {
+    "startTick": 166341,
     "tick": 166661,
+    "endTick": 166789,
     "victim": "stormzyn",
     "killer": "mlhzin",
     "weapon": "m4a1_silencer",
@@ -1008,7 +1232,9 @@
     "score": -94.12
   },
   {
+    "startTick": 149370,
     "tick": 149690,
+    "endTick": 149818,
     "victim": "lkz",
     "killer": "CutzMeretz",
     "weapon": "awp",
@@ -1017,7 +1243,9 @@
     "score": -96.85
   },
   {
+    "startTick": 191784,
     "tick": 192104,
+    "endTick": 192232,
     "victim": "fl4sh",
     "killer": "history",
     "weapon": "awp",
@@ -1026,7 +1254,9 @@
     "score": -97.32
   },
   {
+    "startTick": 64950,
     "tick": 65270,
+    "endTick": 65398,
     "victim": "t9rnay",
     "killer": "lkz",
     "weapon": "awp",
@@ -1035,7 +1265,9 @@
     "score": -102.04
   },
   {
+    "startTick": 166801,
     "tick": 167121,
+    "endTick": 167249,
     "victim": "mlhzin",
     "killer": "lkz",
     "weapon": "awp",
@@ -1044,7 +1276,9 @@
     "score": -112.75
   },
   {
+    "startTick": 65917,
     "tick": 66237,
+    "endTick": 66365,
     "victim": "revoltz",
     "killer": "CutzMeretz",
     "weapon": "ak47",
@@ -1053,7 +1287,9 @@
     "score": -113.02
   },
   {
+    "startTick": 98898,
     "tick": 99218,
+    "endTick": 99346,
     "victim": "Jerr1",
     "killer": "history",
     "weapon": "awp",
@@ -1062,7 +1298,9 @@
     "score": -118
   },
   {
+    "startTick": 160685,
     "tick": 161005,
+    "endTick": 161133,
     "victim": "stormzyn",
     "killer": "history",
     "weapon": "awp",
@@ -1071,7 +1309,9 @@
     "score": -118.87
   },
   {
+    "startTick": 65473,
     "tick": 65793,
+    "endTick": 65921,
     "victim": "perez",
     "killer": "revoltz",
     "weapon": "ak47",
@@ -1080,7 +1320,9 @@
     "score": -120.61
   },
   {
+    "startTick": 166726,
     "tick": 167046,
+    "endTick": 167174,
     "victim": "revoltz",
     "killer": "history",
     "weapon": "awp",
@@ -1089,7 +1331,9 @@
     "score": -122.09
   },
   {
+    "startTick": 98675,
     "tick": 98995,
+    "endTick": 99123,
     "victim": "CutzMeretz",
     "killer": "revoltz",
     "weapon": "mp9",
@@ -1098,7 +1342,9 @@
     "score": -122.13
   },
   {
+    "startTick": 98764,
     "tick": 99084,
+    "endTick": 99212,
     "victim": "t9rnay",
     "killer": "Jerr1",
     "weapon": "mp9",
@@ -1107,7 +1353,9 @@
     "score": -127.43
   },
   {
+    "startTick": 100000,
     "tick": 100320,
+    "endTick": 100448,
     "victim": "history",
     "killer": "lkz",
     "weapon": "ssg08",
@@ -1116,7 +1364,9 @@
     "score": -127.8
   },
   {
+    "startTick": 42296,
     "tick": 42616,
+    "endTick": 42744,
     "victim": "CutzMeretz",
     "killer": "fl4sh",
     "weapon": "ak47",
@@ -1125,7 +1375,9 @@
     "score": -134.14
   },
   {
+    "startTick": 107566,
     "tick": 107886,
+    "endTick": 108014,
     "victim": "revoltz",
     "killer": "history",
     "weapon": "usp_silencer",
@@ -1134,7 +1386,9 @@
     "score": -138.86
   },
   {
+    "startTick": 100692,
     "tick": 101012,
+    "endTick": 101140,
     "victim": "fl4sh",
     "killer": "perez",
     "weapon": "ak47",
@@ -1143,7 +1397,9 @@
     "score": -139.76
   },
   {
+    "startTick": 113740,
     "tick": 114060,
+    "endTick": 114188,
     "victim": "lkz",
     "killer": "t9rnay",
     "weapon": "m4a1_silencer",
@@ -1152,7 +1408,9 @@
     "score": -150.34
   },
   {
+    "startTick": 106117,
     "tick": 106437,
+    "endTick": 106565,
     "victim": "stormzyn",
     "killer": "history",
     "weapon": "usp_silencer",
@@ -1161,7 +1419,9 @@
     "score": -152.09
   },
   {
+    "startTick": 33659,
     "tick": 33979,
+    "endTick": 34107,
     "victim": "CutzMeretz",
     "killer": "Jerr1",
     "weapon": "m4a1_silencer",
@@ -1170,7 +1430,9 @@
     "score": -153.64
   },
   {
+    "startTick": 87041,
     "tick": 87361,
+    "endTick": 87489,
     "victim": "stormzyn",
     "killer": "CutzMeretz",
     "weapon": "ak47",
@@ -1179,7 +1441,9 @@
     "score": -153.9
   },
   {
+    "startTick": 107544,
     "tick": 107864,
+    "endTick": 107992,
     "victim": "CutzMeretz",
     "killer": "revoltz",
     "weapon": "glock",
@@ -1188,7 +1452,9 @@
     "score": -154.91
   },
   {
+    "startTick": 34458,
     "tick": 34778,
+    "endTick": 34906,
     "victim": "mlhzin",
     "killer": "Jerr1",
     "weapon": "usp_silencer",
@@ -1197,7 +1463,9 @@
     "score": -160.17
   },
   {
+    "startTick": 148446,
     "tick": 148766,
+    "endTick": 148894,
     "victim": "mlhzin",
     "killer": "revoltz",
     "weapon": "ak47",
@@ -1206,7 +1474,9 @@
     "score": -162.84
   },
   {
+    "startTick": 160242,
     "tick": 160562,
+    "endTick": 160690,
     "victim": "Jerr1",
     "killer": "perez",
     "weapon": "usp_silencer",
@@ -1215,7 +1485,9 @@
     "score": -168.97
   },
   {
+    "startTick": 13402,
     "tick": 13722,
+    "endTick": 13850,
     "victim": "CutzMeretz",
     "killer": "lkz",
     "weapon": "famas",
@@ -1224,7 +1496,9 @@
     "score": -186.95
   },
   {
+    "startTick": 84753,
     "tick": 85073,
+    "endTick": 85201,
     "victim": "perez",
     "killer": "lkz",
     "weapon": "awp",
@@ -1233,7 +1507,9 @@
     "score": -189.72
   },
   {
+    "startTick": 169453,
     "tick": 169773,
+    "endTick": 169901,
     "victim": "CutzMeretz",
     "killer": "lkz",
     "weapon": "awp",
@@ -1242,7 +1518,9 @@
     "score": -190.06
   },
   {
+    "startTick": 174198,
     "tick": 174518,
+    "endTick": 174646,
     "victim": "t9rnay",
     "killer": "revoltz",
     "weapon": "mac10",
@@ -1251,7 +1529,9 @@
     "score": -193.98
   },
   {
+    "startTick": 124687,
     "tick": 125007,
+    "endTick": 125135,
     "victim": "revoltz",
     "killer": "t9rnay",
     "weapon": "m4a1_silencer",
@@ -1260,7 +1540,9 @@
     "score": -196.35
   },
   {
+    "startTick": 130616,
     "tick": 130936,
+    "endTick": 131064,
     "victim": "Jerr1",
     "killer": "mlhzin",
     "weapon": "m4a1_silencer",
@@ -1269,7 +1551,9 @@
     "score": -199.95
   },
   {
+    "startTick": 100658,
     "tick": 100978,
+    "endTick": 101106,
     "victim": "mlhzin",
     "killer": "fl4sh",
     "weapon": "famas",
@@ -1278,7 +1562,9 @@
     "score": -204.65
   },
   {
+    "startTick": 166350,
     "tick": 166670,
+    "endTick": 166798,
     "victim": "Jerr1",
     "killer": "t9rnay",
     "weapon": "ak47",
@@ -1287,7 +1573,9 @@
     "score": -223.62
   },
   {
+    "startTick": 4332,
     "tick": 4652,
+    "endTick": 4780,
     "victim": "CutzMeretz",
     "killer": "revoltz",
     "weapon": "usp_silencer",
@@ -1296,7 +1584,9 @@
     "score": -232.15
   },
   {
+    "startTick": 18379,
     "tick": 18699,
+    "endTick": 18827,
     "victim": "fl4sh",
     "killer": "t9rnay",
     "weapon": "ak47",
@@ -1305,7 +1595,9 @@
     "score": -234.41
   },
   {
+    "startTick": 69965,
     "tick": 70285,
+    "endTick": 70413,
     "victim": "stormzyn",
     "killer": "t9rnay",
     "weapon": "ak47",
@@ -1314,7 +1606,9 @@
     "score": -260.63
   },
   {
+    "startTick": 49936,
     "tick": 50256,
+    "endTick": 50384,
     "victim": "CutzMeretz",
     "killer": "fl4sh",
     "weapon": "m4a1_silencer",
@@ -1323,7 +1617,9 @@
     "score": -270.1
   },
   {
+    "startTick": 64593,
     "tick": 64913,
+    "endTick": 65041,
     "victim": "Jerr1",
     "killer": "CutzMeretz",
     "weapon": "ak47",
@@ -1332,7 +1628,9 @@
     "score": -316.13
   },
   {
+    "startTick": 34070,
     "tick": 34390,
+    "endTick": 34518,
     "victim": "perez",
     "killer": "revoltz",
     "weapon": "mac10",

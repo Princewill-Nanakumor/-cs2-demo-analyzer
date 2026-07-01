@@ -22,7 +22,9 @@ export interface TickData {
 }
 
 export interface Candidate {
+  startTick: number;
   tick: number;
+  endTick: number;
 
   victim: string;
   killer: string;
